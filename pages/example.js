@@ -3,7 +3,7 @@ import Hero from '../components/hero'
 import Header from '../components/header'
 import Logo from '../components/logo'
 
-const Index = () => {
+const Example = () => {
   return (
     <div>
         <Hero/>
@@ -100,4 +100,4 @@ const Index = () => {
   )
 }
 
-export default Index
+export default Example
