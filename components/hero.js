@@ -120,7 +120,7 @@ export default function Hero() {
               Use AI to attract and retain high CLV customers.
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600">
-              Boost profitability with Treat's real-time marketing predictions and optimizations.
+              Boost profitability with Treats real-time marketing predictions and optimizations.
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6">
                 <a
